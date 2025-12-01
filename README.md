@@ -4,4 +4,4 @@ extract it
 Now open the browser, click extensions 
 Now click manage extensions 
 Now click load unpacked
-Select the open GApps
+Select the open GApps folder the folder should have 9 files
