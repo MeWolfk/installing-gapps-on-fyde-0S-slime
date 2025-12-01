@@ -1,7 +1,7 @@
 Download the GApps Installer ZIP
 Extract the ZIP
 Open the Browser on FydeOS
-Go to Extensions (🧩 icon)
+Go to Extensions
 Click Manage Extensions
 Turn on Developer Mode
 Click Load unpacked
